@@ -30,4 +30,4 @@ python portscan.py -u www.baidu.com -d
 
 ## 4 意见反馈
 
-*请联系邮箱:fishcleo10@outlook.com
+*如有问题请联系邮箱:fishcleo10@outlook.com
